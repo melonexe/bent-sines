@@ -1,0 +1,19 @@
+{
+    "header" : 
+    {
+        "platform" : "prologue",
+        "module" : "osc",
+        "api" : "1.1-0",
+        "dev_id" : 0,
+        "prg_id" : 0,
+        "version" : "1.0-1",
+        "name" : "vangelis",
+        "num_param" : 4,
+        "params" : [
+            ["Jitter",  0, 100, "%"],
+            ["FM Fdbk", 0, 100, "%"],
+            ["WavFold", 0, 100, "%"],
+            ["SR Redu", 0, 100, "%"]
+          ]
+    }
+}
